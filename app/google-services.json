@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "678379669326",
+    "firebase_url": "https://technodomsurvey.firebaseio.com",
+    "project_id": "technodomsurvey",
+    "storage_bucket": "technodomsurvey.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678379669326:android:c036f4e97871507e",
+        "android_client_info": {
+          "package_name": "com.example.akerke.technodomsurvey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678379669326-h35pd60ng7rg7bmmukanafasluvf2e7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCujtiwcsUiHp1c0NI_XQPy5dw3Wq-4cVc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
